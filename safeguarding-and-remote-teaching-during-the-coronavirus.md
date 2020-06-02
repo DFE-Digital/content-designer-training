@@ -99,7 +99,7 @@ In some areas, schools may also be able to seek support from their local authori
 
 ### Providing pastoral care remotely
 
-Helping parents, carers and pupils to make a weekly plan or structure that includes time for education, playing and relaxing is important to reduce stress and anxiety for families.
+Helping parents, carers and pupils to make a monthly plan or structure that includes time for education, playing and relaxing is important to reduce stress and anxiety for families.
 
 As set out in [Public Health England’s guidance for parents and carers](https://www.gov.uk/government/publications/covid-19-guidance-on-supporting-children-and-young-peoples-mental-health-and-wellbeing/guidance-for-parents-and-carers-on-supporting-children-and-young-peoples-mental-health-and-wellbeing-during-the-coronavirus-covid-19-outbreak#helping-children-and-young-people-cope-with-stress), routine can give children and young people an increased feeling of safety in the context of uncertainty.
 

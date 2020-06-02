@@ -31,7 +31,7 @@ Schools may wish to use these resources to understand more about ensuring online
 
 Guidance on [teaching online safety in schools](https://www.gov.uk/government/publications/teaching-online-safety-in-schools) provides information to help schols ensure there pupils understand how to stay safe and behave online.
 
-School contact with parrents and careers during this time can also be used to reinforce the importance of children staying safe online.
+School contact with parents and carers during this time can also be used to reinforce the importance of children staying safe online.
 
 It’s especially important for parents and carers to be aware of what their children are being asked to do, including:
 

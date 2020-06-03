@@ -44,7 +44,7 @@ Use these resources to support parents and carers to keep their children safe on
 
 * [Thinkuknow](http://www.thinkuknow.co.uk/) provides advice from the National Crime Agency (NCA) on staying safe online
 * [Parent info](https://parentinfo.org/) is a collaboration between Parentzone and the NCA providing support and guidance for parents from leading experts and organizations
-* [Childnet](https://www.childnet.com/parents-and-carers/parent-and-carer-toolkit) offers a toolkit to support parents and carers of children of any age to start discussions about their online life, to set boundarys around online behaviour and technology use, and to find out where to get more help and support
+* [Childnet](https://www.childnet.com/parents-and-carers/parent-and-carer-toolkit) offers a toolkit to support parents and carers of children of any age to start discussions about their online life, to set boundaries around online behaviour and technology use, and to find out where to get more help and support
 * [Internet matters](https://www.internetmatters.org/?gclid=EAIaIQobChMIktuA5LWK2wIVRYXVCh2afg2aEAAYASAAEgIJ5vD_BwE) provides age-specific online safety checklists, guides on how to set parental controls on a range of devices, and a host of practical tips to help children get the most out of their digital world
 * [London Grid for Learning](https://www.lgfl.net/online-safety/) has support for parents and carers to keep their children safe online, including 6 top tips to keep primary aged children safe online
 * [Net-aware](https://www.net-aware.org.uk/) has support for parents and carers from the NSPCC, including a guide to social networks, apps and games

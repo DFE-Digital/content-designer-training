@@ -16,7 +16,7 @@ This should be read along side [coronavirus (COVID-19): safeguarding in schools,
 
 ## Safeguarding teachers and pupils online
 
-Most children are being educated at home during the coronavirus (COVID-19) outbreak, so school leaders and teachers are having to adjust to remote education strategys. While this is happening, it is important that schools continue to follow safeguarding procedures. 
+Most children are being educated at home during the coronavirus (COVID-19) outbreak, so school leaders and teachers are having to adjust to remote education strategies. While this is happening, it is important that schools continue to follow safeguarding procedures. 
 
 As set out in the [coronavirus: safeguarding in schools, colleges and other providers](https://www.gov.uk/government/publications/covid-19-safeguarding-in-schools-colleges-and-other-providers/coronavirus-covid-19-safeguarding-in-schools-colleges-and-other-providers#child-protection-policy) guidance,
 online education should follow the same principles set out in your school’s staff behaviour policy (sometimes known as a cone of conduct).

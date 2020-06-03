@@ -1,6 +1,6 @@
 # Safeguarding and remote teaching during the coronavirus outbreak (COVID-19)
 
-This guidance is to help schools and teachers support pupils' education at home during the coronavirus (COVID-19) outbreak. 
+This guidance is to help schools and teachers support pupils' education at home during the coronavirus (COVID-19) outbreak.
 
 
 It includes information about:
@@ -16,12 +16,12 @@ This should be read along side [coronavirus (COVID-19): safeguarding in schools,
 
 ## Safeguarding teachers and pupils online
 
-Most children are being educated at home during the coronavirus (COVID-19) outbreak, so school leaders and teachers are having to adjust to remote education strategys. While this is happening, it is important that schools continue to follow safeguarding procedures. 
+Most children are being educated at home during the coronavirus (COVID-19) outbreak, so school leaders and teachers are having to adjust to remote education strategys. While this is happening, it is important that schools continue to follow safeguarding procedures.
 
 As set out in the [coronavirus: safeguarding in schools, colleges and other providers](https://www.gov.uk/government/publications/covid-19-safeguarding-in-schools-colleges-and-other-providers/coronavirus-covid-19-safeguarding-in-schools-colleges-and-other-providers#child-protection-policy) guidance,
 online education should follow the same principles set out in your school’s staff behaviour policy (sometimes known as a cone of conduct).
 
-Keeping teachers safe when providing remote education is also essential. Remote education is a new experience for both stafff and pupils, so it’s important that schools understand how to approach safeguarding procedures online. 
+Keeping teachers safe when providing remote education is also essential. Remote education is a new experience for both stafff and pupils, so it’s important that schools understand how to approach safeguarding procedures online.
 
 Schools may wish to use these resources to understand more about ensuring online education is safe:
 
@@ -70,7 +70,7 @@ Get support by:
 
 You can:
 
-* get advice on reporting online abuse from the National Crime Agency's [Child Exploitation and Online PProtection command](https://www.ceop.police.uk/safety-centre/) 
+* get advice on reporting online abuse from the National Crime Agency's [Child Exploitation and Online PProtection command](https://www.ceop.police.uk/safety-centre/)
 * get advice and support from [Anti-Bullying Alliance](https://www.anti-bullyingalliance.org.uk/tools-information/if-youre-being-bullied) for children who are being bullied
 
 Schools may also wish to use resources such as [TooToot](https://tootoot.co.uk/) to provide a confidential route for pupils to report bullying or abuse.
@@ -94,7 +94,7 @@ There is no expectation that teachers should live stream or provide pre-recorded
 
 Teaching from home is different to teaching in the classroom. Teachers should try to find a quiet or private room or area to talk to pupils, parents or carers. When broadcasting a lesson or making a recording, consider what will be in the background.
 
-In some areas, schools may also be able to seek support from their local authority when planning online lessons and activities and considering online safety. 
+In some areas, schools may also be able to seek support from their local authority when planning online lessons and activities and considering online safety.
 
 
 ### Providing pastoral care remotely
@@ -111,6 +111,6 @@ This should be discussed and approved by the senior leadership team to assess an
 
 Schools and collages should continue to follow the guidance outlined in the [data protection: toolkit for schools](https://www.gov.uk/government/publications/data-protection-toolkit-for-schools) when managing personal data and may need to consider:
 
-* taking care not to share contact details when emaling multiple people
+* taking care not to share contact details when emailing multiple people
 * being careful when sharing usernames and other personal data for access to online resources
 * providing access to schools data systems safely

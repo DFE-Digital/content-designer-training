@@ -16,7 +16,7 @@ This should be read along side [coronavirus (COVID-19): safeguarding in schools,
 
 ## Safeguarding teachers and pupils online
 
-Most children are being educated at home during the coronavirus (COVID-19) outbreak, so school leaders and teachers are having to adjust to remote education strategys. While this is happening, it is important that schools continue to follow safeguarding procedures. 
+Most children are being educated at home during the coronavirus (COVID-19) outbreak, so school leaders and teachers are having to adjust to remote education strategies. While this is happening, it is important that schools continue to follow safeguarding procedures. 
 
 As set out in the [coronavirus: safeguarding in schools, colleges and other providers](https://www.gov.uk/government/publications/covid-19-safeguarding-in-schools-colleges-and-other-providers/coronavirus-covid-19-safeguarding-in-schools-colleges-and-other-providers#child-protection-policy) guidance,
 online education should follow the same principles set out in your school’s staff behaviour policy (sometimes known as a cone of conduct).
@@ -44,7 +44,7 @@ Use these resources to support parents and carers to keep their children safe on
 
 * [Thinkuknow](http://www.thinkuknow.co.uk/) provides advice from the National Crime Agency (NCA) on staying safe online
 * [Parent info](https://parentinfo.org/) is a collaboration between Parentzone and the NCA providing support and guidance for parents from leading experts and organisations
-* [Childnet](https://www.childnet.com/parents-and-carers/parent-and-carer-toolkit) offers a toolkit to support parents and carers of children of any age to start discussions about their online life, to set boundarys around online behaviour and technology use, and to find out where to get more help and support
+* [Childnet](https://www.childnet.com/parents-and-carers/parent-and-carer-toolkit) offers a toolkit to support parents and carers of children of any age to start discussions about their online life, to set boundaries around online behaviour and technology use, and to find out where to get more help and support
 * [Internet matters](https://www.internetmatters.org/?gclid=EAIaIQobChMIktuA5LWK2wIVRYXVCh2afg2aEAAYASAAEgIJ5vD_BwE) provides age-specific online safety checklists, guides on how to set parental controls on a range of devices, and a host of practical tips to help children get the most out of their digital world
 * [London Grid for Learning](https://www.lgfl.net/online-safety/) has support for parents and carers to keep their children safe online, including 6 top tips to keep primary aged children safe online
 * [Net-aware](https://www.net-aware.org.uk/) has support for parents and carers from the NSPCC, including a guide to social networks, apps and games
@@ -70,7 +70,7 @@ Get support by:
 
 You can:
 
-* get advice on reporting online abuse from the National Crime Agency's [Child Exploitation and Online PProtection command](https://www.ceop.police.uk/safety-centre/) 
+* get advice on reporting online abuse from the National Crime Agency's [Child Exploitation and Online Protection command](https://www.ceop.police.uk/safety-centre/) 
 * get advice and support from [Anti-Bullying Alliance](https://www.anti-bullyingalliance.org.uk/tools-information/if-youre-being-bullied) for children who are being bullied
 
 Schools may also wish to use resources such as [TooToot](https://tootoot.co.uk/) to provide a confidential route for pupils to report bullying or abuse.

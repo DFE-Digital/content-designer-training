@@ -70,7 +70,7 @@ Get support by:
 
 You can:
 
-* get advice on reporting online abuse from the National Crime Agency's [Child Exploitation and Online PProtection command](https://www.ceop.police.uk/safety-centre/) 
+* get advice on reporting online abuse from the National Crime Agency's [Child Exploitation and Online Protection command](https://www.ceop.police.uk/safety-centre/) 
 * get advice and support from [Anti-Bullying Alliance](https://www.anti-bullyingalliance.org.uk/tools-information/if-youre-being-bullied) for children who are being bullied
 
 Schools may also wish to use resources such as [TooToot](https://tootoot.co.uk/) to provide a confidential route for pupils to report bullying or abuse.
